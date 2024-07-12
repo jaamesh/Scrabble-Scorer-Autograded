@@ -136,7 +136,7 @@ function runProgram() {
    console.log("algorithm name: ", algorithm.name);
    console.log("scorerFunction result: ", algorithm.scorerFunction(wordToScore));
 
-   //console.log(newPointStructure);
+   console.log(newPointStructure);
 }
 
 // Don't write any code below this line //
